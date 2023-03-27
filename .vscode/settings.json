@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "memory_resource": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "any": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp"
+    }
+}
