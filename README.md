@@ -1,7 +1,3 @@
-Here's a professional and comprehensive GitHub profile page for you:
-
----
-
 ### Hi there 👋
 
 I'm Raja Babu, a Final Year B.Tech student in Computer Science (CS '26) at IIT Dhanbad. My passion lies in Full Stack Development and Machine Learning. I'm currently honing my skills at the Amazon Machine Learning Summer School 2024. I love to explore new technologies, contribute to open-source projects, and participate in competitive programming contests.
